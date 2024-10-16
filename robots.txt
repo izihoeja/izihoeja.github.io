@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://izihoeja.github.io/BFn/sitemap_index.txt.gz
+Sitemap: https://izihoeja.github.io/Nua/sitemap_index.txt.gz
+Sitemap: https://izihoeja.github.io/WHm/sitemap_index.txt.gz
+Sitemap: https://izihoeja.github.io/ady/sitemap_index.txt.gz
+Sitemap: https://izihoeja.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://izihoeja.github.io/tkc/sitemap_index.txt.gz
